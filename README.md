@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm recent graduate from California State University Fullerton in Computer Science. 
+#### 🔭 I’m currently working on 
+<!--
+{{range recentContributions 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+-- >
