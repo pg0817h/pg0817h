@@ -1,25 +1,3 @@
-### Hi there 👋
+#### 👷 Check out what I'm currently working on
 
-<!--
-**pg0817h/pg0817h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm recent graduate from California State University Fullerton in Computer Science. 
-#### 🔭 I’m currently working on 
-<!--
-{{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
--- >
+- [Let-s-Foodie/client](https://github.com/Let-s-Foodie/client) -  (2 weeks ago)
