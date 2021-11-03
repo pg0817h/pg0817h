@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Let-s-Foodie/client](https://github.com/Let-s-Foodie/client) -  (1 day ago)
-- [pg0817h/portfolio](https://github.com/pg0817h/portfolio) -  (2 days ago)
-- [Let-s-Foodie/server](https://github.com/Let-s-Foodie/server) -  (6 days ago)
+- [Let-s-Foodie/client](https://github.com/Let-s-Foodie/client) -  (2 days ago)
+- [pg0817h/portfolio](https://github.com/pg0817h/portfolio) -  (3 days ago)
+- [Let-s-Foodie/server](https://github.com/Let-s-Foodie/server) -  (1 week ago)
 #### 🌱 My latest projects
 
 - [pg0817h/portfolio](https://github.com/pg0817h/portfolio) - 
