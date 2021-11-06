@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pg0817h/portfolio](https://github.com/pg0817h/portfolio) -  (today)
 - [Let-s-Foodie/client](https://github.com/Let-s-Foodie/client) -  (3 days ago)
-- [pg0817h/portfolio](https://github.com/pg0817h/portfolio) -  (6 days ago)
 - [Let-s-Foodie/server](https://github.com/Let-s-Foodie/server) -  (1 week ago)
 #### 🌱 My latest projects
 
