@@ -2,11 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Let-s-Foodie/client](https://github.com/Let-s-Foodie/client) -  (1 month ago)
-- [pg0817h/portfolio](https://github.com/pg0817h/portfolio) -  (1 month ago)
-- [Let-s-Foodie/server](https://github.com/Let-s-Foodie/server) -  (2 months ago)
+- [pg0817h/kartrade](https://github.com/pg0817h/kartrade) -  (5 days ago)
+- [pg0817h/social-login-service](https://github.com/pg0817h/social-login-service) -  (1 month ago)
+- [pg0817h/pagination](https://github.com/pg0817h/pagination) -  (1 month ago)
 #### 🌱 My latest projects
 
+- [pg0817h/kartrade](https://github.com/pg0817h/kartrade) - 
+- [pg0817h/social-login-service](https://github.com/pg0817h/social-login-service) - 
+- [pg0817h/pagination](https://github.com/pg0817h/pagination) - 
 - [pg0817h/portfolio](https://github.com/pg0817h/portfolio) - 
 - [pg0817h/abbyPark](https://github.com/pg0817h/abbyPark) - 
 - [pg0817h/CPSC349_Project1](https://github.com/pg0817h/CPSC349_Project1) - Foodies, recommend food receipt, and user can upload new receipt.(PHP) 
