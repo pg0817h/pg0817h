@@ -2,11 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pg0817h/portfolio_2023](https://github.com/pg0817h/portfolio_2023) -  (1 day ago)
 - [pg0817h/kartrade](https://github.com/pg0817h/kartrade) -  (2 weeks ago)
 - [pg0817h/social-login-service](https://github.com/pg0817h/social-login-service) -  (1 month ago)
 - [pg0817h/pagination](https://github.com/pg0817h/pagination) -  (1 month ago)
 #### 🌱 My latest projects
 
+- [pg0817h/portfolio_2023](https://github.com/pg0817h/portfolio_2023) - 
 - [pg0817h/kartrade](https://github.com/pg0817h/kartrade) - 
 - [pg0817h/social-login-service](https://github.com/pg0817h/social-login-service) - 
 - [pg0817h/pagination](https://github.com/pg0817h/pagination) - 
